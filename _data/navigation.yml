@@ -67,3 +67,12 @@
   dropdown:
   - title: "รีวิวเกมส์ Totalwar"
     url: "/blog/"
+
+- title: "แนวเกมส์ตะลุยด่าน"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "รีวิวเกมส์ Remember ME"
+    url: "/blog/"
+  - title: "เนื้อเรื่อง Remember ME"
+    url: "/blog/"
