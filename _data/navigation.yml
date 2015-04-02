@@ -60,3 +60,10 @@
   dropdown:
   - title: "รีวิวเกมส์ 7k for kakao"
     url: "/blog/"
+
+- title: "แนวเกมส์วางแผน"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "รีวิวเกมส์ Totalwar"
+    url: "/blog/"
