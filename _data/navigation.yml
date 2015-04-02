@@ -1,12 +1,8 @@
 - title: หน้าแรก
-  url: "/"
+  url: "http://gamer2see.github.io"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
+- title: "ข่าวสารเกมส์"
   url: "/design/"
   side: left
   dropdown:
