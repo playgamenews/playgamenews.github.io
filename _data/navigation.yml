@@ -1,35 +1,17 @@
-- title: Start
-  url: "/"
+-- title: หน้าแรก
+  url: "http://playgamenews.github.io/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
+- title: "ข่าวสารเกมส์"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "• ข่าวเกมส์ออนไลน์"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "• ข่าวเกมส์ออฟไลน์"
     url: "/design/typography/"
-  - title: "Page/Post"
+  - title: "• ข่าวเกมส์ลดราคา"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
 - title: "Header Styles"
   url: "/headers/"
