@@ -1,5 +1,5 @@
 - title: หน้าแรก
-  url: "http://gamer2see.github.io"
+  url: "http://playgamenews.github.io"
   side: left
 
 - title: "ข่าวสารเกมส์"
@@ -47,14 +47,12 @@
   - title: "เนื้อเรื่อง Bioshock"
     url: "/roadmap/"
 
-- title: Blog
+- title: "แนวเกมส์แข่งรถ"
   url: "/blog/"
   side: left
   dropdown:
-  - title: Blog
+  - title: "รีวิวเกมส์ Need for speed"
     url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
