@@ -32,15 +32,19 @@
   - title: "• รีวิวเกมส์ Goat simulator"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: "แนวเกมส์ยิงปืน"
   url: "/documentation/"
   side: left
   dropdown:
-  - title: Documentation
+  - title: "รีวิวเกมส์ Call of duty"
     url: "/documentation/"
-  - title: "Changelog"
+  - title: "รีวิวเกมส์ CS:GO"
     url: "/changelog/"
-  - title: "Roadmap"
+  - title: "รีวิวเกมส์ Bioshock"
+    url: "/roadmap/"
+  - title: "รีวิวเกมส์ Dead Space"
+    url: "/changelog/"
+  - title: "เนื้อเรื่อง Bioshock"
     url: "/roadmap/"
 
 - title: Blog
