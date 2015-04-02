@@ -17,19 +17,19 @@
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "• รีวิวเกมส์ watchdog"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "• เนื้อเรื่องเกมส์ watchdog"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "• รีวิวเกมส์ Assasin Creed"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
+  - title: "• รีวิวเกมส์ Assansin Creed 2"
     url: "/design/header-logo-only/"
-  - title: "Header With Text"
+  - title: "• เนื้อเรื่องเกมส์ Assansin Creed 2"
     url: "/design/header-with-text/"
-  - title: "No Header"
+  - title: "• รีวิวเกมส์ Assansin Creed brotherhood"
     url: "/design/no-header/"
-  - title: "No Header but Image"
+  - title: "• รีวิวเกมส์ Goat simulator"
     url: "/design/no-header-but-image/"
 
 - title: Documentation
