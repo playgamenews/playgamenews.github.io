@@ -54,10 +54,9 @@
   - title: "รีวิวเกมส์ Need for speed"
     url: "/blog/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
+- title: "แนวเกมส์ต่อสู้"
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "รีวิวเกมส์ 7k for kakao"
+    url: "/blog/"
