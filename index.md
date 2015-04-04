@@ -11,13 +11,13 @@ header:
 widget-1:
     title: "CS:GO"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'สุดยอดเกมส์ยิงในตำนานเที่ได้ถูกพัฒนามาจากภาคก่อน เต็มเปี่ยมไปด้วยอาวุธต่างๆ ด่านใหม่ๆ เเต่ยังคงไว้ซึ่งสไตล์รูปแบบการเล่นในแบบของเกมส์ Counter Strike ไว้ และยังมี tournament ระดับโลกต่างๆมากมายตลอดทั้งปี'
+    text: 'สุดยอดเกมส์ยิงในตำนานที่ได้ถูกพัฒนามาจากภาคก่อน เต็มเปี่ยมไปด้วยอาวุธต่างๆ ด่านใหม่ๆ เเต่ยังคงไว้ซึ่งสไตล์รูปแบบการเล่นในแบบของเกมส์ Counter Strike ไว้ และยังมี tournament ระดับโลกต่างๆมากมายตลอดทั้งปี'
     image: cs.jpg
 widget-2:
-    title: "Why use this theme?"
+    title: "Need For Speed World?"
     url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Seven different Headers.<br>5. Customizable navigation, footer,...'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    text: 'เกมส์แข่งรถที่ทุกๆคนคงรู้จักกันเป็นอย่างดีกับเกมส์แข่งรถในชุด ซีรีย์ Need For Speed โดยภาค world คือ Need For Speed ในรูปอบบออนไลน์นั้นเอง มีรถต่างๆมากมายทั้งรถ ยุโรปและรถ ญี่ปุ่น พร้อมของแต่งอีกเพียบ รัดเข็มขัดให้แน่นแล้วออกไปซิ่งกัน'
+    image: nf.jpg
 widget-3:
     title: "Download Theme"
     url: 'https://github.com/Phlow/feeling-responsive'
