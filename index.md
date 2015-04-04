@@ -7,7 +7,7 @@
 layout: frontpage
 title: "PGN Enjoy in your life"
 header:
-   image_fullwidth: "freedom.jpeg"
+   image_fullwidth: "freedom.jpg"
 widget-1:
     title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
