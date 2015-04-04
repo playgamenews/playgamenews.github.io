@@ -19,10 +19,10 @@ widget-2:
     text: 'เกมส์แข่งรถที่ทุกๆคนคงรู้จักกันเป็นอย่างดีกับเกมส์แข่งรถในชุด ซีรีย์ Need For Speed โดยภาค world คือ Need For Speed ในรูปแบบออนไลน์นั้นเอง มีรถต่างๆมากมายทั้งรถ ยุโรปและรถ ญี่ปุ่น พร้อมของแต่งอีกเพียบ รัดเข็มขัดให้แน่นแล้วออกไปซิ่งกัน'
     image: nf.jpg
 widget-3:
-    title: "Assassin's Creed Brotherhood"
+    title: "Download Theme"
     url: 'https://github.com/Phlow/feeling-responsive'
-    text: 'กลับมาอีกอีกหนึ่งภาคสำหรับ Assassin's Creed นักฆ่าในตำนาน มฤตยูไร้เสียง Ezio เดินทางมาสู่กรุงโรม ศูนย์กลางแห่งอำนาจ เพื่อปราบเหล่าศัตรูของเขาให้สิ้นซาก'
-    image: as.jpg
+    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+    image: github-303x182.jpg
 ---
 
 
