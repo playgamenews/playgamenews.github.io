@@ -9,10 +9,10 @@ title: "PGN Enjoy in your life"
 header:
    image_fullwidth: "freedom.jpg"
 widget-1:
-    title: "Blog & Portfolio"
+    title: "CS:GO"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-    image: unsplash_9-302x182.jpg
+    text: 'สุดยอดเกมส์ยิงในตำนานเที่ได้ถูกพัฒนามาจากภาคก่อน เต็มเปี่ยมไปด้วยอาวุธต่างๆ ด่านใหม่ๆ เเต่ยังคงไว้ซึ่งสไตล์รูปแบบการเล่นในแบบของเกมส์ Counter Strike ไว้ และยังมี tournament ระดับโลกต่างๆมากมายตลอดทั้งปี'
+    image: cs.jpg
 widget-2:
     title: "Why use this theme?"
     url: 'http://phlow.github.io/feeling-responsive/info/'
