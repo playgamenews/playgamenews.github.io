@@ -132,7 +132,7 @@ bing_webmastertools_id:    "0FB4C028ABCF07C908C54386ABD2D97F"
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicons, Apple Touch Buttons
 #                                                 More information » http://j.mp/apple-touch-icons
 
-favicon:                         "/assets/img/favicon-32x.png"                    # iOS7 Size 32x32
+favicon:                         "/assets/img/pj.png"                    # iOS7 Size 32x32
 apple_touch_icon_iphone:         "/assets/img/touch-icon-iphone-60x.png"          # iOS7 Size 60x60
 apple_touch_icon_iphone_retina:  "/assets/img/touch-icon-iphone-retina-120x.png"  # iOS7 Size 120x120
 apple_touch_icon_ipad:           "/assets/img/touch-icon-ipad-76x.png"            # iOS7 Size 76x76
