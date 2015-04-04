@@ -21,7 +21,7 @@ widget-2:
 widget-3:
     title: "Assassin's Creed Brotherhood"
     url: 'https://github.com/Phlow/feeling-responsive'
-    text: 'กลับมาอีกอีกหนึ่งภาคสำหรับ Assassin's Creed นักฆ่าในตำนาน มฤตยูไร้เสียง Ezio เดินทางมาสู่กรุงโรม ศูนย์กลางแห่งอำนาจ เพื่อปราบเหล่าศัตรูของเขาให้สิ้นซาก
+    text: 'กลับมาอีกอีกหนึ่งภาคสำหรับ Assassin's Creed นักฆ่าในตำนาน มฤตยูไร้เสียง Ezio เดินทางมาสู่กรุงโรม ศูนย์กลางแห่งอำนาจ เพื่อปราบเหล่าศัตรูของเขาให้สิ้นซาก'
     image: as.jpg
 ---
 
