@@ -21,7 +21,7 @@ widget-2:
 widget-3:
     title: "Assassin's Creed Brotherhood เมื่อตำนานนักฆ่าปรากฎตัว แผ่นดินจะนองไปด้วยเลือด"
     url: 'https://github.com/Phlow/feeling-responsive'
-    text: '<em>Feeling Responsive</em> เมื่อนักฆ่าอย่าง Ezio บุกมาถึงเมืองโรม italy เมืองศูนย์กลางแห่งอำนาจ และการคอรัปชัน. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+    text: '<em>Feeling Responsive</em> เมื่อนักฆ่าอย่าง Ezio บุกมาถึงเมืองโรม italy เมืองศูนย์กลางแห่งอำนาจ และการคอรัปชัน การมาครั้งนี้ไม่มีคำว่าปราณีให้ศัตรูของเขาทุกคน. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
     image: ass.jpg
 ---
 
