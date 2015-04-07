@@ -7,7 +7,7 @@
 layout: frontpage
 title: "PGN Enjoy in your life"
 header:
-   image_fullwidth: "freedom.jpg"
+   image_fullwidth: "bg.jpg"
 widget-1:
     title: "CS:GO ตำนานเกมส์ยิงที่จะกลับมายิ่งใหญ่"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -17,7 +17,7 @@ widget-2:
     title: "Need For Speed World ไม่ได้มีดีแค่เพียงความเร็ว"
     url: 'http://phlow.github.io/feeling-responsive/info/'
     text: 'เกมส์แข่งรถที่ทุกๆคนคงรู้จักกันเป็นอย่างดีกับเกมส์แข่งรถในชุด ซีรีย์ Need For Speed โดยภาค world คือ Need For Speed ในรูปแบบออนไลน์นั้นเอง มีรถต่างๆมากมายทั้งรถ ยุโรปและรถ ญี่ปุ่น พร้อมของแต่งอีกเพียบ รัดเข็มขัดให้แน่นแล้วออกไปซิ่งกัน'
-    image: gn.jpg
+    image: nf.jpg
 widget-3:
     title: "Assassin's Creed Brotherhood เมื่อตำนานนักฆ่าปรากฎตัว แผ่นดินจะนองไปด้วยเลือด"
     url: 'https://github.com/Phlow/feeling-responsive'
