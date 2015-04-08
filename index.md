@@ -6,6 +6,7 @@
 #
 layout: frontpage
 title: "PGN Enjoy in your life"
+~~~
 header:
    image_fullwidth: "bg3.jpg"
 widget-1:
@@ -23,6 +24,7 @@ widget-3:
     url: 'https://github.com/Phlow/feeling-responsive'
     text: '<em>Assassin Creed</em> เมื่อนักฆ่าอย่าง Ezio บุกมาถึงเมืองโรม italy เมืองศูนย์กลางแห่งอำนาจ และการคอรัปชัน การมาครั้งนี้ไม่มีคำว่าปราณีให้ศัตรูของเขาทุกคน.'
     image: ass.jpg
+~~~    
 ---
 
 
