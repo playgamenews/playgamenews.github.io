@@ -25,7 +25,7 @@ widget-3:
     text: '<em>Assassin Creed</em> เมื่อนักฆ่าอย่าง Ezio บุกมาถึงเมืองโรม italy เมืองศูนย์กลางแห่งอำนาจ และการคอรัปชัน การมาครั้งนี้ไม่มีคำว่าปราณีให้ศัตรูของเขาทุกคน.'
     image: ass.jpg
 ~~~    
----
+
 
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
