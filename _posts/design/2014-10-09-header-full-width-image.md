@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Header with a Full-Width-Image"
+title:  "PGN Enjoy in your life"
 subheadline:  "Headers With Style"
 teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
 categories:
