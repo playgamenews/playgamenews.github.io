@@ -17,7 +17,7 @@
 
 $text-color:       	#111;
 $body-font-color: 	$text-color;
-$body-bg: 			#a3e2ff;
+$body-bg: 			#ffe533;
 
 
 
@@ -88,14 +88,14 @@ $topbar-link-bg-hover: $ci-6;
 $topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: #a9b9ff; // Background Mobile Navigation
-$topbar-dropdown-link-color: #a9b9ff;
-$topbar-dropdown-link-bg: #a9b9ff;
+$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-link-color: #000;
+$topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #000;
-$topbar-menu-icon-color: #000;
+$topbar-menu-link-color: #ffe533;
+$topbar-menu-icon-color: #ffe533;
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
 
