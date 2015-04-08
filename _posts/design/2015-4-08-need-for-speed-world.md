@@ -16,9 +16,8 @@ header:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
-It's so easy to do. Just define in front matter your image.
-
-<img src=”http://www.gamerslegion.net/wp-content/uploads/2012/06/Need-For-Speed-World-PC-Game-Cheats.jpg”>
+pix:
+    image: "ng.jpg"
 
 ## สเปคที่ต้องการ
 

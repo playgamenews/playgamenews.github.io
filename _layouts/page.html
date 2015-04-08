@@ -27,6 +27,12 @@ format: post
 					<h1>{{ page.title }}</h1>
 				</span>
 			</header>
+
+			{% if page.pix %}
+			<figure> 
+				<img src="{{ site.url }}/images/{{ page.image.title }}" width="970" alt="{{ page.title escape_once }}" itemprop="image">
+			<figure>	
+			{% endif %}
 			<img src="http://cdn.eteknix.com/wp-content/uploads/2012/04/featured4.jpg">
 
 
