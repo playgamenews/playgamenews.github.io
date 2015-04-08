@@ -8,11 +8,11 @@ categories:
 tags:
     - Need For Speed
     - Need For Speed World
-    - เกมส์แข่งรถ
+    - เกมส์แข่ง
 image:
-   thumb: "nf.jpg"
+   thumb: "unsplash_brooklyn-bridge_thumb.jpg"
 header:
-    image_fullwidth: "nf.jpg"
+    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
@@ -21,11 +21,11 @@ It's so easy to do. Just define in front matter your image.
 ## เนื้อเรื่อง
 
 ~~~
-ใน Need For Speed ภาคนี้เราจะได้รับบทเป็นนักซิ่งรถผิดกฎหมาย ไไไไไไไไไไไไไไไไไไไไไไไไไ
+ใน Need For Speed ภาคนี้เราจะได้รับบทเป็นนักซิ่งรถผิดกฎหมาย
 ~~~
 
 
 
 
 
-{% tag='header' %}
+{% include list-posts.html tag='header' %}
