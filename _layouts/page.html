@@ -39,7 +39,9 @@ format: post
 			{{ content }}
 			</span>
 
-			
+			{% if page.show_meta == true %}
+			{% include meta_information.html %}
+			{% endif %}
 
 			{% if page.comments == true %}
 			{% include comments.html %}
