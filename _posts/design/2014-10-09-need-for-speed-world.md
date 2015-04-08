@@ -28,4 +28,3 @@ It's so easy to do. Just define in front matter your image.
 
 
 
-{% include list-posts.html tag='header' %}
