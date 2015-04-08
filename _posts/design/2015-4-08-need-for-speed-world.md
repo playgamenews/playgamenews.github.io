@@ -18,7 +18,7 @@ header:
 ---
 It's so easy to do. Just define in front matter your image.
 
-<img src=”nf.jpg”>
+<img src=”http://www.gamerslegion.net/wp-content/uploads/2012/06/Need-For-Speed-World-PC-Game-Cheats.jpg”>
 
 ## สเปคที่ต้องการ
 
