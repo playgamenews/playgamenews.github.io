@@ -18,6 +18,8 @@ header:
 ---
 It's so easy to do. Just define in front matter your image.
 
+<img src=”nf.jpg”>
+
 ## สเปคที่ต้องการ
 
 ~~~
@@ -26,26 +28,29 @@ It's so easy to do. Just define in front matter your image.
 Processor  – Intel® Pentium® 4(HT) @2.4 GHz
 Memory  – 1.0 GB RAM
 Hard Drive – 2.0 GB
-Video Card – NVIDIA® GeForce® 6800, ATI Radeon™ X1300, or Intel® GMA 950 (See "7. Troubleshooting" for support list)
+Video Card – NVIDIA® GeForce® 6800, ATI Radeon™ X1300 or Intel® GMA 950 
 Sound Card – DirectX 8.1 compatible
 DirectX – Version 9.0c
 Network Connection – 128 kbps Cable/DSL connection
 Online Multiplayer – 512 kbps Cable/DSL connection; 2-8 Players
 Input – Keyboard, Mouse,
-Recommended video chipsets: ATI Radeon™ X1800 XT 512MB or greater; NVIDIA® GeForce® 8600 GT 256MB or greater.
+Recommended video chipsets: ATI Radeon™ X1800 XT 512MB or greater; 
+ NVIDIA® GeForce® 8600 GT 256MB or greater.
 
 ใน Windows Vista (SP2)/ Windows 7
 
 Processor (Vista/Windows 7) – Intel® Core™2 Duo @ 1.8GHz
 Memory – 2.0 GB RAM
 Hard Drive – 2.0 GB
-Video Card – NVIDIA® GeForce® 7600, ATI Radeon™ HD 2000 series, Intel® GMA 950 or better
+Video Card – NVIDIA® GeForce® 7600, ATI Radeon™ HD 2000 series
+           - Intel® GMA 950 or better
 Sound Card – DirectX 8.1 compatible
 DirectX – Version 9.0c
 Network Connection – 128 kbps Cable/DSL connection
 Online Multiplayer – 512 kbps Cable/DSL connection; 2-8 Players
 Input – Keyboard, Mouse,
-Recommended video chipsets: Windows Vista/Window 7 – NVIDIA® GeForce® 8600 or better; ATI Radeon™ HD 2600 or greater.
+Recommended video chipsets: NVIDIA® GeForce® 8600 or better
+ ATI Radeon™ HD 2600 or greater.
 ~~~
 
 
