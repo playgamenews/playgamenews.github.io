@@ -9,17 +9,17 @@ title: "PGN Enjoy in your life"
 header:
    image_fullwidth: "bg3.jpg"
 widget-1:
-    title: "CS:GO ตำนานเกมส์ยิงที่จะกลับมายิ่งใหญ่"
+    title: "รีวิวเกมส์ CS:GO ตำนานเกมส์ยิงที่จะกลับมายิ่งใหญ่"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
     text: 'สุดยอดเกมส์ยิงในตำนานที่ได้ถูกพัฒนามาจากภาคก่อน เต็มเปี่ยมไปด้วยอาวุธต่างๆ ด่านใหม่ๆ เเต่ยังคงไว้ซึ่งสไตล์รูปแบบการเล่นในแบบของเกมส์ Counter Strike ไว้ และยังมี tournament ระดับโลกต่างๆมากมายตลอดทั้งปี'
     image: cs.jpg
 widget-2:
-    title: "Need For Speed World ไม่ได้มีดีแค่เพียงความเร็ว"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
+    title: "รีวิวเกมส์ Need For Speed World ไม่ได้มีดีแค่เพียงความเร็ว"
+    url: 'http://http://playgamenews.github.io/design/Need For Speed World/'
     text: 'เกมส์แข่งรถที่ทุกๆคนคงรู้จักกันเป็นอย่างดีกับเกมส์แข่งรถในชุด ซีรีย์ Need For Speed โดยภาค world คือ Need For Speed ในรูปแบบออนไลน์นั้นเอง มีรถต่างๆมากมายทั้งรถ ยุโรปและรถ ญี่ปุ่น พร้อมของแต่งอีกเพียบ รัดเข็มขัดให้แน่นแล้วออกไปซิ่งกัน'
     image: nf.jpg
 widget-3:
-    title: "Assassin's Creed Brotherhood เมื่อตำนานนักฆ่าปรากฎตัว แผ่นดินจะนองไปด้วยเลือด"
+    title: "รีวิวเกมส์ Assassin's Creed Brotherhood เมื่อตำนานนักฆ่าปรากฎตัว แผ่นดินจะนองไปด้วยเลือด"
     url: 'https://github.com/Phlow/feeling-responsive'
     text: '<em>Assassin Creed</em> เมื่อนักฆ่าอย่าง Ezio บุกมาถึงเมืองโรม italy เมืองศูนย์กลางแห่งอำนาจ และการคอรัปชัน การมาครั้งนี้ไม่มีคำว่าปราณีให้ศัตรูของเขาทุกคน.'
     image: ass.jpg
