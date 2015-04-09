@@ -39,12 +39,20 @@
 <div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
-			<img src="{{ site.urlimg }}/{{ page.pix.image }}" width="302" height="182" alt="">
+			<img src="{{ site.url }}/images/{{ page.header.image }}"width="970" alt="{{ site.title }}">
 			
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
 
+{% if page.header.caption_url && page.header.caption %}
+<div class="masthead-caption">
+	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
+</div>
+{% elsif page.header.caption %}
+<div class="masthead-caption">
+	{{ page.header.caption }}
+</div>
 {% endif %}
 
 
