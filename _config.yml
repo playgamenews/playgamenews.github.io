@@ -38,11 +38,11 @@ urlimg: "http://playgamenews.github.io/images/"
 
 
 # Logo size is 600x80 pixels
-logo: null
+logo: "null"
 
 
 # Paginates all X entries
-paginate: 5
+paginate: 0
 
 
 # Pagination path › Important for blog page in /blog/ to work
