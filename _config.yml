@@ -37,12 +37,6 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 urlimg: "http://playgamenews.github.io/images/"
 
 
-# Logo size is 600x80 pixels
-
-
-
-# Paginates all X entries
-paginate: 5
 
 
 # Pagination path › Important for blog page in /blog/ to work
