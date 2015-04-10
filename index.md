@@ -7,7 +7,7 @@
 layout: frontpage
 title: "PGN Enjoy in your life"
 header:
-   image_fullwidth: "tron2.jpg"
+   image_fullwidth: "tron3.jpg"
 widget-1:
     title: "รีวิวเกมส์ CS:GO ตำนานเกมส์ยิงที่จะกลับมายิ่งใหญ่"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
