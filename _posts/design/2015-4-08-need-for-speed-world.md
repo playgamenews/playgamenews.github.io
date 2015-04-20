@@ -8,7 +8,7 @@ categories:
 tags:
     - Need For Speed
     - Need For Speed World
-    - เกมส์แข่ง
+    - เกมส์แข่งรถ
 image:
    thumb: "tron4.jpg"
 header:
@@ -18,7 +18,7 @@ pix:
    title: "รีวิวเกมส์ CS:GO ตำนานเกมส์ยิงที่จะกลับมายิ่งใหญ่"
    url: 'http://phlow.github.io/feeling-responsive/blog/'
    text: 'สุดยอดเกมส์ยิงในตำนานที่ได้ถูกพัฒนามาจากภาคก่อน เต็มเปี่ยมไปด้วยอาวุธต่างๆ ด่านใหม่ๆ เเต่ยังคงไว้ซึ่งสไตล์รูปแบบการเล่นในแบบของเกมส์ Counter Strike ไว้ และยังมี tournament ระดับโลกต่างๆมากมายตลอดทั้งปี'
-   image: cs.jpg   
+   image: nfsw005.jpg   
 ---
 It's so easy to do. Just define in front matter your image.
 
