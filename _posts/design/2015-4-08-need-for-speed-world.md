@@ -1,3 +1,8 @@
+@font-face 
+     {
+         font-family: DSN_Single;
+         src: url"arial.ttf"
+     }
 ---
 layout: page
 title:  "Need For Speed World"
