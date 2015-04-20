@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Need For Speed World"
+title:  "Need For Speed World ไม่ได้มีดีแค่เพียงความเร็ว"
 categories:
     - design
 tags:
