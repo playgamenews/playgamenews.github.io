@@ -14,7 +14,7 @@ header:
 <img src="{{ site.url }}/images/nfsw005.jpg" width="1280" height="720">
 
 
-## สเปคที่ต้องการ
+## <font color="red">สเปคที่ต้องการ</font>
 
 ~~~
 ใน Windows XP (SP3)
