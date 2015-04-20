@@ -12,6 +12,10 @@ header:
 ---
 
 <img src="{{ site.url }}/images/nfsw005.jpg" width="1280" height="720">
+## <font color="red">เนื้อเรื่อง</font>
+การกลับมาอีกครั้งของซีรีย์เกมส์แข่งรถในตำนานอย่าง Need For Speed โดยในภาคนี้จะมาในรูปแบบของการเล่นในแบบ online 
+
+## <font color="red">ตัวเกมส์</font>
 
 
 ## <font color="red">สเปคที่ต้องการ</font>
