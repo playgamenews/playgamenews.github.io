@@ -10,7 +10,8 @@ tags:
 header:
     image_fullwidth: "tron4.jpg"
 ---
-<img class="t60" src="{{ site.url }}/images/nfsw005.jpg">
+
+<img src="{{ site.url }}/images/nfsw005.jpg" width="1280" height="720">
 
 
 ## สเปคที่ต้องการ
