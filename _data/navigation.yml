@@ -17,8 +17,8 @@
   url: "/headers/"
   side: left
   dropdown:
-  - title: "รีวิวเกมส์ watchdog"
-    url: "/design/header-full-width-image/"
+  - title: "รีวิวเกมส์ Dying Light"
+    url: "/Dying-Light/"
   - title: "เนื้อเรื่องเกมส์ watchdog"
     url: "/design/header-image-pattern/"
   - title: "รีวิวเกมส์ Assasin Creed"
