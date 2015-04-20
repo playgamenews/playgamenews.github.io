@@ -10,11 +10,10 @@ tags:
     - Need For Speed World
     - เกมส์แข่ง
 image:
-   thumb: "unsplash_brooklyn-bridge_thumb.jpg"
+   thumb: "tron4.jpg"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: "tron4.jpg"
+    
 pix:
    title: "รีวิวเกมส์ CS:GO ตำนานเกมส์ยิงที่จะกลับมายิ่งใหญ่"
    url: 'http://phlow.github.io/feeling-responsive/blog/'
