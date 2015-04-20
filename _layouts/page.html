@@ -30,9 +30,8 @@ format: post
 
 			{% if page.pix.title %}
 			 <a href="{{ page.pix.url }}">{% if page.pix.image %}<img src="{{ site.urlimg }}/{{ page.pix.image }}" width="929" height="531" alt="">{% endif %}{% if page.pix.video %}{{ page.pix.video }}{% endif %}</a>
-			<h2 class="font-size-h3 t10">{{ page.pix.title }}</h2>
+			<h2 align="center">{{ page.pix.title }}</h2>
             <p>{{ page.pix.text }}</p>
-            <p><a class="button tiny radius" href="{{ page.pix.url }}">อ่านต่อ ›</a></p>
             {% endif %}
 
 			
