@@ -1,26 +1,16 @@
 ---
 layout: page
 title:  "Need For Speed World"
-
-teaser: "เกมส์แข่งรถที่ทุกๆคนคงรู้จักกันเป็นอย่างดีกับเกมส์แข่งรถในชุด ซีรีย์ Need For Speed โดยภาค world คือ Need For Speed ในรูปแบบออนไลน์นั้นเอง มีรถต่างๆมากมายทั้งรถ ยุโรปและรถ ญี่ปุ่น พร้อมของแต่งอีกเพียบ รัดเข็มขัดให้แน่นแล้วออกไปซิ่งกัน"
 categories:
     - design
 tags:
     - Need For Speed
     - Need For Speed World
     - เกมส์แข่งรถ
-image:
-   thumb: "tron4.jpg"
 header:
     image_fullwidth: "tron4.jpg"
-    
-pix:
-   title: "รีวิวเกมส์ CS:GO ตำนานเกมส์ยิงที่จะกลับมายิ่งใหญ่"
-   
-   text: 'สุดยอดเกมส์ยิงในตำนานที่ได้ถูกพัฒนามาจากภาคก่อน เต็มเปี่ยมไปด้วยอาวุธต่างๆ ด่านใหม่ๆ เเต่ยังคงไว้ซึ่งสไตล์รูปแบบการเล่นในแบบของเกมส์ Counter Strike ไว้ และยังมี tournament ระดับโลกต่างๆมากมายตลอดทั้งปี'
-   image: nfsw005.jpg   
 ---
-It's so easy to do. Just define in front matter your image.
+<img class="t60" src="{{ site.url }}/images/nfsw005.jpg">
 
 
 ## สเปคที่ต้องการ
