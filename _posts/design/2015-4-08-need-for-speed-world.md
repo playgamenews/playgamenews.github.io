@@ -21,7 +21,7 @@ pix:
    image: nfsw005.jpg   
 ---
 It's so easy to do. Just define in front matter your image.
-
+<FONT COLOR=red>ตัวอักษรสีแดง</FONT>
 
 ## สเปคที่ต้องการ
 
