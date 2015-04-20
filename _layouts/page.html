@@ -29,7 +29,7 @@ format: post
 			</header>
 
 			{% if page.pix.title %}
-			 <a href="">{% if page.pix.image %}<img src="{{ page.pix.image }}" width="1280" height="720" alt="">{% endif %}{% if page.pix.video %}{{ page.pix.video }}{% endif %}</a>
+			 {% if page.pix.image %}<img src="{{ site.urlimg }}/{{ page.pix.image }}" width="1280" height="720" alt=""
 			<h2 class="font-size-h3 t10">{{ page.pix.title }}</h2>
             <p>{{ page.pix.text }}</p>
             {% endif %}
