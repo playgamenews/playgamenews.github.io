@@ -37,7 +37,7 @@
   side: left
   dropdown:
   - title: "รีวิวเกมส์ CS:GO"
-    url: "/counter-strike-global-offensive/"
+    url: "/design/counter-strike-global-offensive/"
   - title: "รีวิวเกมสื Call of Duty"
     url: "/changelog/"
   - title: "รีวิวเกมส์ Bioshock"

@@ -10,7 +10,7 @@ header:
    image_fullwidth: "tron4.jpg"
 widget-1:
     title: "รีวิวเกมส์ CS:GO ตำนานเกมส์ยิงที่จะกลับมายิ่งใหญ่"
-    url: "/counter-strike-global-offensive/"
+    url: "/design/counter-strike-global-offensive/"
     text: 'สุดยอดเกมส์ยิงในตำนานที่ได้ถูกพัฒนามาจากภาคก่อน เต็มเปี่ยมไปด้วยอาวุธต่างๆ ด่านใหม่ๆ เเต่ยังคงไว้ซึ่งสไตล์รูปแบบการเล่นในแบบของเกมส์ Counter Strike ไว้ และยังมี tournament ระดับโลกต่างๆมากมายตลอดทั้งปี'
     image: cs.jpg
 widget-2:
