@@ -51,8 +51,11 @@
   url: "/blog/"
   side: left
   dropdown:
-  - title: "รีวิวเกมส์ Need for speed"
-    url: "/blog/"
+  - title: "รีวิวเกมส์ Need for speed Most wanted"
+    url: "/design/need-for-speed-most-wanted/"
+  - title: "รีวิวเกมส์ Need for speed World"
+    url: "/design/need-for-speed-world/"
+
 
 - title: "แนวเกมส์ต่อสู้"
   url: "/blog/"
