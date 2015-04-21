@@ -36,9 +36,9 @@
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "รีวิวเกมส์ Call of duty"
-    url: "/documentation/"
   - title: "รีวิวเกมส์ CS:GO"
+    url: "/counter-strike-global-offensive/"
+  - title: "รีวิวเกมสื Call of Duty"
     url: "/changelog/"
   - title: "รีวิวเกมส์ Bioshock"
     url: "/roadmap/"
