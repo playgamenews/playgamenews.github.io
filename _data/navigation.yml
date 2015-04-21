@@ -58,7 +58,7 @@
   side: left
   dropdown:
   - title: "รีวิวเกมส์ 7k for kakao"
-    url: "/blog/"
+    url: "/design/7k-for-kakao/"
 
 - title: "แนวเกมส์วางแผน"
   url: "/blog/"
