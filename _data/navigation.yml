@@ -34,8 +34,8 @@
   dropdown:
   - title: "รีวิวเกมส์ CS:GO"
     url: "/design/counter-strike-global-offensive/"
-  - title: "รีวิวเกมสื Call of Duty"
-    url: "/changelog/"
+  - title: "รีวิวเกมสื Special Force"
+    url: "/design/special-force/"
   - title: "รีวิวเกมส์ Bioshock"
     url: "/roadmap/"
   - title: "รีวิวเกมส์ Dead Space"
