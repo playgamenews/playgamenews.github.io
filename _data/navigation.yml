@@ -19,12 +19,8 @@
   dropdown:
   - title: "รีวิวเกมส์ Dying Light"
     url: "/design/dying-light/"
-  - title: "เนื้อเรื่องเกมส์ watchdog"
-    url: "/design/header-image-pattern/"
-  - title: "รีวิวเกมส์ Assasin Creed"
-    url: "/design/header-image-color/"
   - title: "รีวิวเกมส์ Assansin Creed 2"
-    url: "/design/header-logo-only/"
+    url: "/design/assassin-creed2/"
   - title: "เนื้อเรื่องเกมส์ Assansin Creed 2"
     url: "/design/header-with-text/"
   - title: "รีวิวเกมส์ Assansin Creed brotherhood"

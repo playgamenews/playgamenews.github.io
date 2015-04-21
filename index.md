@@ -19,10 +19,10 @@ widget-2:
     text: 'เกมส์แข่งรถที่ทุกๆคนคงรู้จักกันเป็นอย่างดีกับเกมส์แข่งรถในชุด ซีรีย์ Need For Speed โดยภาค world คือ Need For Speed ในรูปแบบออนไลน์นั้นเอง มีรถต่างๆมากมายทั้งรถ ยุโรปและรถ ญี่ปุ่น พร้อมของแต่งอีกเพียบ รัดเข็มขัดให้แน่นแล้วออกไปซิ่งกัน'
     image: nf.jpg
 widget-3:
-    title: "รีวิวเกมส์ Assassin's Creed Brotherhood เมื่อตำนานนักฆ่าปรากฎตัว แผ่นดินจะนองไปด้วยเลือด"
-    url: 'https://github.com/Phlow/feeling-responsive'
+    title: "รีวิวเกมส์ Assassin's Creed 2 เมื่อตำนานนักฆ่าปรากฎตัว แผ่นดินจะนองไปด้วยเลือด"
+    url: "/design/assassin-creed2/"
     text: '<em>Assassin Creed</em> เมื่อนักฆ่าอย่าง Ezio บุกมาถึงเมืองโรม italy เมืองศูนย์กลางแห่งอำนาจ และการคอรัปชัน การมาครั้งนี้ไม่มีคำว่าปราณีให้ศัตรูของเขาทุกคน.'
-    image: ass.jpg
+    image: ac2-0.jpg
 ---
 
 
